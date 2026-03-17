@@ -14,7 +14,9 @@ A BIP39 mnemonic typically consists of 12, 15, 18, 21, or 24 words chosen from a
 
 ## About This Wordlist
 
-This repository provides the **official Turkish (TR) BIP39 wordlist** — `bip39_turkish.txt` — containing **2048 unique Turkish words** that meet all BIP39 requirements.
+This repository provides a **Turkish (TR) BIP39 wordlist** — `bip39_turkish.txt` — containing **2048 unique Turkish words** that meet all BIP39 requirements.
+
+> **Note:** This is an unofficial, community-maintained wordlist and is not endorsed by the BIP39 authors or any official standards body.
 
 ### Key Properties
 
@@ -128,9 +130,15 @@ awk 'length > 8' bip39_turkish.txt
 
 ---
 
+## Word Source
+
+The Turkish words in this list were sourced from the TDK (Türk Dil Kurumu) dictionary data made available by the [TDKDictionaryCrawler](https://github.com/ncarkaci/TDKDictionaryCrawler) project. Words were then filtered and curated to meet the BIP39 technical requirements listed above.
+
+---
+
 ## Comparison with Other BIP39 Wordlists
 
-The [official BIP39 repository](https://github.com/trezor/python-mnemonic) includes wordlists for English, Japanese, Korean, Spanish, Chinese (Simplified & Traditional), French, Italian, Czech, and Portuguese. This repository adds **Turkish** to that collection, following the same technical conventions.
+The [official BIP39 repository](https://github.com/trezor/python-mnemonic) includes wordlists for English, Japanese, Korean, Spanish, Chinese (Simplified & Traditional), French, Italian, Czech, and Portuguese. This repository provides a community-maintained Turkish wordlist following the same technical conventions, but is not part of that official collection.
 
 ---
 
