@@ -861,7 +861,7 @@ habip
 hacamat
 hacker
 hadsiz
-hafniyum
+hafifce
 hafriyat
 hafta
 hahha
@@ -1018,7 +1018,7 @@ ipten
 iptida
 irca
 irfan
-iridyum
+irili
 irin
 irkilme
 irmik
@@ -1086,7 +1086,7 @@ jorjet
 judo
 kabil
 kadeh
-kadmiyum
+kadife
 kadran
 kafile
 kaftan
@@ -1253,7 +1253,7 @@ liret
 lirik
 lisan
 litoloji
-lityum
+litre
 liyakat
 lobut
 loda
@@ -1364,7 +1364,7 @@ misvak
 mitral
 miyar
 miyokart
-molibden
+mola
 monat
 monist
 moren
