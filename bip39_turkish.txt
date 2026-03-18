@@ -20,7 +20,7 @@ acente
 acibe
 acil
 acul
-acuze
+acun
 acze
 adak
 adatma
@@ -158,7 +158,7 @@ anekdot
 anele
 anemi
 angaje
-angut
+angora
 anha
 animato
 anjin
@@ -247,7 +247,7 @@ atmosfer
 atropin
 atsan
 atta
-avanak
+avam
 avdet
 averaj
 avize
@@ -488,7 +488,7 @@ demin
 denaet
 denek
 denli
-denyo
+dental
 depderin
 deplase
 depo
@@ -902,7 +902,7 @@ hepsi
 hepten
 hepyek
 hercai
-hergele
+herdem
 herhangi
 herif
 hevenk
@@ -1125,7 +1125,7 @@ kehanet
 kehle
 kelam
 kemal
-kepaze
+kepenk
 kerpeten
 kerrat
 ketal
@@ -1273,11 +1273,11 @@ maarif
 macun
 madalya
 madik
-madrabaz
+madlen
 madun
 maestoso
 mafsal
-maganda
+magma
 mahbes
 mahdum
 mahfaza
@@ -1889,7 +1889,7 @@ tripleks
 trombon
 tropik
 troyka
-tufeyli
+tufan
 tugay
 tuhaf
 tulani
