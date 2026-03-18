@@ -23,8 +23,8 @@ acul
 acun
 acze
 adak
+adalet
 adatma
-adavet
 addan
 addetme
 adem
@@ -284,9 +284,9 @@ azoik
 azot
 bagaj
 baget
+bahce
 bahri
 baht
-bahusus
 bakkal
 balbal
 baobap
@@ -321,7 +321,7 @@ benmari
 bensiz
 benzeme
 beraat
-berdevam
+berbat
 bergamot
 berhane
 beri
@@ -330,11 +330,11 @@ besbelli
 bevliye
 beyan
 beygir
-beyhude
 beyler
 beyti
 beyzade
 bezdirme
+bezgin
 biat
 bibehre
 biblo
@@ -1152,7 +1152,7 @@ koklama
 kokona
 kokpit
 kolcu
-kolhoz
+kolluk
 kolofan
 kolsuz
 kombi
