@@ -951,7 +951,7 @@ humus
 huri
 huzur
 ibare
-ibne
+ibret
 ibzal
 icabet
 icmal
@@ -1288,7 +1288,7 @@ majeste
 makabil
 makro
 makyaj
-mankafa
+mantar
 manzara
 mapus
 margarin
