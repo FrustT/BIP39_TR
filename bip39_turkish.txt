@@ -639,8 +639,8 @@ enlem
 ense
 entari
 entegre
-enva
-eosen
+envanter
+enzim
 epey
 epifit
 epigrafi
@@ -933,7 +933,7 @@ hizmet
 hokey
 hokka
 holding
-holosen
+holigan
 homojen
 homur
 hopa
@@ -1180,7 +1180,7 @@ kozmetik
 kravat
 kredi
 krem
-kretase
+krep
 kripto
 kroki
 krupiye
@@ -1433,8 +1433,8 @@ negatif
 nehari
 nemlenme
 nemrut
-neojen
-neolitik
+nene
+neon
 nergis
 nesebi
 netlik
@@ -1472,7 +1472,7 @@ okyanus
 olacak
 oldu
 oleik
-oligosen
+oligarsi
 olimpik
 olivin
 olsa
@@ -1571,7 +1571,7 @@ plazma
 plebisit
 plevra
 pleybek
-pliyosen
+pliyaj
 plonjon
 podyum
 pofur
