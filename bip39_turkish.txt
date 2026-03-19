@@ -293,8 +293,8 @@ baobap
 barfiks
 barhana
 barmen
-barudi
-baryum
+bars
+barut
 basamak
 bavul
 bayan
@@ -791,7 +791,7 @@ gaflet
 gaip
 galon
 galvaniz
-galyum
+gama
 gambot
 garabet
 garbi
@@ -1497,7 +1497,7 @@ orkide
 orlon
 ortopedi
 orucunda
-osmiyum
+osmanli
 otalama
 otlu
 otogar
@@ -1634,7 +1634,7 @@ rehber
 rehin
 reji
 rengi
-renyum
+renkli
 reosta
 replik
 retorik
@@ -1650,13 +1650,13 @@ rivayet
 rondela
 rotil
 ruam
-rubidyum
+rubik
 ruble
 ruhani
 ruhen
 ruhlu
 rulman
-rutenyum
+rulo
 rutin
 rutubet
 ruzname
@@ -1717,7 +1717,7 @@ seyek
 seyir
 seyran
 sezgi
-sezyum
+sezme
 sfenks
 sigar
 sihir
