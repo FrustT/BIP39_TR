@@ -1380,9 +1380,9 @@ muaf
 muahede
 muakkip
 muallak
-muannit
-muaraza
-muavenet
+muamma
+muasir
+mucadele
 mucip
 mucuk
 mufassal
@@ -1395,7 +1395,7 @@ muin
 mujik
 mukabele
 mukim
-muktebes
+mulakat
 mumhane
 mumla
 mundar
@@ -1407,12 +1407,12 @@ muslin
 muson
 muteber
 mutfak
-mutmain
+mutlak
 muvacehe
 muylu
 muzaffer
 muzip
-muzmahil
+nabız
 nadide
 nagehan
 nahak
