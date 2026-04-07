@@ -28,7 +28,6 @@ adatma
 adem
 adet
 adil
-adim
 adisyon
 adlar
 adres
@@ -41,17 +40,17 @@ aferin
 affa
 affetme
 affolma
-afis
+afili
 afiyet
 afra
 aftos
 afur
 afyon
-agac
-agda
-agel
-agir
-agiz
+agah
+agave
+agenda
+agilite
+agio
 agnostik
 agraf
 agucuk
@@ -79,7 +78,6 @@ akasya
 akbaba
 akici
 akil
-akin
 akit
 akkavak
 akkor
@@ -89,7 +87,7 @@ akraba
 akrep
 akrilik
 akrobasi
-aksam
+aksan
 aksu
 aktar
 aktif
@@ -119,7 +117,7 @@ allak
 alma
 alpaka
 alperen
-altin
+alpinist
 alyans
 alyuvar
 aman
@@ -166,7 +164,7 @@ anomali
 anons
 anorak
 anot
-ansiz
+ansambl
 antant
 antika
 antoloji
@@ -281,7 +279,7 @@ azoik
 azot
 bagaj
 baget
-bahce
+bahis
 bahri
 baht
 bakkal
@@ -289,7 +287,7 @@ balkon
 balon
 baraka
 baret
-baris
+barka
 barmen
 bars
 barut
@@ -305,7 +303,7 @@ bedava
 bedel
 begonvil
 beka
-bekci
+bekle
 bela
 beledi
 belge
@@ -355,7 +353,7 @@ bira
 birden
 birleme
 bisiklet
-bitis
+bitim
 bitki
 bitlenme
 biye
@@ -430,7 +428,7 @@ ceket
 cembiye
 cemetmek
 cendere
-cengel
+cengi
 cenin
 cephane
 cepken
@@ -447,13 +445,13 @@ cici
 cidden
 cihan
 cihet
-ciklet
+cila
 cilve
 cinci
 cips
 civan
 conta
-coplama
+corpus
 cuma
 cumhur
 cunda
@@ -472,7 +470,7 @@ dazlak
 debriyaj
 defi
 deha
-dehset
+deist
 dejavu
 dekoder
 delice
@@ -502,7 +500,7 @@ devlet
 devralma
 deyim
 diaspora
-diger
+dibi
 dijital
 dikici
 dikkat
@@ -570,7 +568,6 @@ efkar
 efor
 efsane
 egemen
-egik
 egoist
 egzama
 egzersiz
@@ -593,7 +590,6 @@ ekvator
 elastik
 elbet
 elbise
-elci
 elde
 eldiven
 elektrik
@@ -617,7 +613,7 @@ emsal
 emzik
 enayi
 endeks
-endustri
+endorfin
 enerji
 enfes
 engel
@@ -626,7 +622,7 @@ enine
 enkaz
 enlem
 ense
-enstitu
+ensiz
 entari
 entegre
 entrika
@@ -749,6 +745,7 @@ filan
 filbahri
 filtre
 filvaki
+finans
 fino
 fiske
 fistan
@@ -828,7 +825,6 @@ glase
 glikojen
 gliserin
 goblen
-gocuk
 gofret
 gomalak
 gonca
@@ -850,6 +846,7 @@ gulet
 gurk
 gusto
 habanera
+haber
 habip
 hacamat
 hacker
@@ -1089,6 +1086,7 @@ kaide
 kakofoni
 kakule
 kalan
+kalem
 kalibre
 kalori
 kalsit
@@ -1196,11 +1194,12 @@ kungfu
 kupa
 kupes
 kupon
+kural
 kurban
 kuron
 kurs
 kurye
-kuskun
+kusur
 kutlama
 kutnu
 kuvars
@@ -1229,6 +1228,7 @@ layuhti
 lehtar
 lejant
 lejyon
+leke
 lenduha
 leopar
 levye
@@ -1288,6 +1288,7 @@ mantar
 manzara
 mapus
 margarin
+marka
 maroken
 maruf
 masraf
@@ -1306,7 +1307,7 @@ meal
 mecal
 medeni
 megafon
-meger
+mehlem
 mehtap
 mekanik
 melodi
@@ -1375,23 +1376,21 @@ muaf
 muamma
 muasir
 muayene
-mucadele
+muazzam
 mucip
 mucuk
-mudahale
-mufti
+mudavim
+mufit
 muhabbet
-muhendis
+muhbir
 muhit
 muhtar
-mujde
 mukavele
-mukemmel
+mukoza
 muktedir
-mulakat
-mulk
+mulla
 mumbar
-mumkun
+mumcu
 mumla
 murad
 murver
@@ -1407,7 +1406,6 @@ mutlak
 mutsuz
 muvakkat
 muzaffer
-muze
 muzip
 muzmin
 muzur
@@ -1450,7 +1448,7 @@ nohudi
 nokta
 nostalji
 noter
-nufus
+nubuk
 numara
 numune
 nurlu
@@ -1661,6 +1659,7 @@ rutin
 rutubet
 ruzname
 saadet
+sabah
 sabreden
 sacayak
 safderun
@@ -1668,7 +1667,7 @@ safer
 safha
 sagu
 sahne
-sair
+sakal
 saksafon
 saman
 sanki
@@ -1719,7 +1718,7 @@ seyran
 sezgi
 sezme
 sfenks
-sigar
+sigma
 sihir
 siklamen
 simya
@@ -1740,6 +1739,7 @@ sobe
 sofra
 sofu
 sohbet
+sokak
 solfej
 solgun
 solist
@@ -1791,7 +1791,7 @@ tapir
 tapma
 taptaze
 tarh
-tasdi
+tasa
 tasfiye
 tasnif
 tasvip
@@ -1863,7 +1863,7 @@ tiraj
 tiryak
 tiyatro
 tohum
-tokuz
+tokma
 tolerans
 tomruk
 tonik
