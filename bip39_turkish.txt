@@ -80,7 +80,7 @@ akbaba
 akici
 akil
 akin
-akis
+akit
 akkavak
 akkor
 akkuyruk
@@ -116,7 +116,7 @@ alim
 alinazik
 alkali
 allak
-alna
+alma
 alpaka
 alperen
 altin
@@ -237,7 +237,7 @@ ateist
 aterina
 atfen
 atgiller
-atik
+atif
 atla
 atma
 atmosfer
@@ -648,7 +648,7 @@ erek
 erganun
 ergonomi
 eriten
-erke
+erken
 erksiz
 erlik
 erme
@@ -1017,7 +1017,7 @@ irkilme
 irmik
 ironi
 irsiyet
-isin
+isim
 iskambil
 iskonto
 isli
@@ -1416,7 +1416,7 @@ nadir
 nafaka
 naif
 nakarat
-nakis
+nakit
 nallama
 namaz
 namlu
@@ -1767,7 +1767,7 @@ suizan
 sulak
 sulh
 sumsuk
-sungu
+suni
 sunma
 susak
 suspus
